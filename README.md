@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @fatihgirgic
-- 👀 I’m interested in PHP and Wordpress
-- 🌱 I’m currently learning Laravel
+- 👀 I’m interested in PHP, Laravel and Wordpress
 - 📫 bilgi@fatihgirgic.com.tr
